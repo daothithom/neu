@@ -34,7 +34,7 @@ body {
 #header>ul>li {
     float: left;
     line-height: 77px;
-    margin-left: 50px;
+    margin-left: 60px;
     position: relative;
 }
 #header>ul>li:hover a {

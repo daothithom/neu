@@ -47,7 +47,7 @@ body {
     color: var(--maincolor);
 }
 #header>ul> .login_signup {
-    margin-left: 180px;
+    margin-left: 160px;
 }
 #header>ul>li>ul {
     width:250px;

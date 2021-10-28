@@ -165,13 +165,13 @@ body {
 }
 
 #information>.box3>.article {
-    height: 80px;
+    height: 70px;
     margin: 20px 0px 20px 5px;
     position: relative;
 }
 #information>.box3>.article>img {
     width:100px;
-    height: 80px;
+    height: 60px;
     display:block;
     float: left;
 }
